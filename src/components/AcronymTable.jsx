@@ -2,7 +2,7 @@
 import React from 'react';
 import { Table, TableHeader, TableRow, TableHead, TableBody, TableCell } from "@/components/ui/table";
 import { Button } from "@/components/ui/button";
-import { Pencil, Trash2, FileExport } from "lucide-react";
+import { Pencil, Trash2, FileText } from "lucide-react";
 
 const AcronymTable = ({ acronyms, onEdit, onDelete }) => {
   return (
