@@ -1,6 +1,0 @@
-
-API|Application Programming Interface
-CPU|Central Processing Unit
-DNS|Domain Name System
-HTML|Hypertext Markup Language
-JSON|JavaScript Object Notation
